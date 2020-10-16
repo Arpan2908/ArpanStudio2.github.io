@@ -11,6 +11,29 @@
   #mapId {
      height: 600px;
    }
+	  a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
     /* Add a CSS rule that selects an element with the ID "mapId" and gives it a height of 600 pixels */
   </style>
   <!-- Adding styling info for page layout by reading in a CSS file -->
