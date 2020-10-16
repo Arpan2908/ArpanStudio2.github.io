@@ -18,7 +18,7 @@
 }
 
 a:visited {
-  color: pink;
+  color: yellow;
   background-color: transparent;
   text-decoration: none;
 }
