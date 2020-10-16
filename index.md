@@ -18,7 +18,7 @@
 </head>
 
 <body>
-  <h1>Arpan's Studio Week 2 submission</h1>
+  <h1>style="font-family:'Courier New'">Arpan's Studio Week 2 submission</h1>
   <!-- Add multiple pages to web page-->
   <!-- active class displays the grey box around current page-->
   <ul>
